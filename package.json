@@ -18,10 +18,15 @@
   },
   "homepage": "https://github.com/aghh1504/react-skeleton#readme",
   "dependencies": {
-    "babel-preset-react": "^6.3.13",
+    "babel-preset-react": "^6.1.18",
     "babelify": "^7.2.0",
-    "react": "^0.14.6",
-    "react-dom": "^0.14.6",
-    "watchify": "^3.7.0"
+    "email-validator": "^1.0.4",
+    "history": "^1.13.1",
+    "react": "^0.14.3",
+    "react-dom": "^0.14.3",
+    "react-router": "^1.0.3",
+    "reflux": "^0.3.0",
+    "watchify": "^3.6.1",
+    "whatwg-fetch": "^0.11.0"
   }
 }
